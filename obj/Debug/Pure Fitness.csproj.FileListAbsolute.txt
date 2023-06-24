@@ -1,0 +1,74 @@
+D:\FILES\Desktop\Software Development\Pure Fitness\bin\Debug\Pure Fitness.exe.config
+D:\FILES\Desktop\Software Development\Pure Fitness\bin\Debug\Pure Fitness.exe
+D:\FILES\Desktop\Software Development\Pure Fitness\bin\Debug\Pure Fitness.pdb
+D:\FILES\Desktop\Software Development\Pure Fitness\obj\Debug\Pure Fitness.csproj.AssemblyReference.cache
+D:\FILES\Desktop\Software Development\Pure Fitness\obj\Debug\Pure_Fitness.Form1.resources
+D:\FILES\Desktop\Software Development\Pure Fitness\obj\Debug\Pure_Fitness.Properties.Resources.resources
+D:\FILES\Desktop\Software Development\Pure Fitness\obj\Debug\Pure Fitness.csproj.GenerateResource.cache
+D:\FILES\Desktop\Software Development\Pure Fitness\obj\Debug\Pure Fitness.csproj.CoreCompileInputs.cache
+D:\FILES\Desktop\Software Development\Pure Fitness\obj\Debug\Pure Fitness.exe
+D:\FILES\Desktop\Software Development\Pure Fitness\obj\Debug\Pure Fitness.pdb
+D:\FILES\Desktop\Software Development\GymGenius App\bin\Debug\Pure Fitness.exe.config
+D:\FILES\Desktop\Software Development\GymGenius App\bin\Debug\Pure Fitness.exe
+D:\FILES\Desktop\Software Development\GymGenius App\bin\Debug\Pure Fitness.pdb
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure Fitness.csproj.AssemblyReference.cache
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.Properties.Resources.resources
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure Fitness.csproj.GenerateResource.cache
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure Fitness.csproj.CoreCompileInputs.cache
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure Fitness.exe
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure Fitness.pdb
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.Dashboard.resources
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.NewMember.resources
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.NewStaff.resources
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.Equipment.resources
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.ViewEquipment.resources
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\bin\Debug\Pure Fitness.exe.config
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\bin\Debug\Pure Fitness.exe
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\bin\Debug\Pure Fitness.pdb
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\obj\Debug\Pure Fitness.csproj.AssemblyReference.cache
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\obj\Debug\Pure_Fitness.Dashboard.resources
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\obj\Debug\Pure_Fitness.Equipment.resources
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\obj\Debug\Pure_Fitness.NewMember.resources
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\obj\Debug\Pure_Fitness.NewStaff.resources
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\obj\Debug\Pure_Fitness.Properties.Resources.resources
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\obj\Debug\Pure_Fitness.ViewEquipment.resources
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\obj\Debug\Pure Fitness.csproj.GenerateResource.cache
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\obj\Debug\Pure Fitness.csproj.CoreCompileInputs.cache
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\obj\Debug\Pure Fitness.exe
+D:\FILES\Desktop\Software Development\GymGenius App - Copy\obj\Debug\Pure Fitness.pdb
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.ManageMember.resources
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.ManageStaff.resources
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.Payment.resources
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.Receipt.resources
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.LogIn.resources
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.SplashForm.resources
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure_Fitness.LogOut.resources
+D:\FILES\Desktop\Software Development\GymGenius App\bin\Debug\Pure Fitness.exe.manifest
+D:\FILES\Desktop\Software Development\GymGenius App\bin\Debug\Pure Fitness.application
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure Fitness.exe.manifest
+D:\FILES\Desktop\Software Development\GymGenius App\obj\Debug\Pure Fitness.application
+D:\FILES\Desktop\Software Development\GymGenius - System Application\bin\Debug\Pure Fitness.exe.config
+D:\FILES\Desktop\Software Development\GymGenius - System Application\bin\Debug\Pure Fitness.exe.manifest
+D:\FILES\Desktop\Software Development\GymGenius - System Application\bin\Debug\Pure Fitness.application
+D:\FILES\Desktop\Software Development\GymGenius - System Application\bin\Debug\Pure Fitness.exe
+D:\FILES\Desktop\Software Development\GymGenius - System Application\bin\Debug\Pure Fitness.pdb
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure Fitness.csproj.AssemblyReference.cache
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.Dashboard.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.Equipment.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.LogIn.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.LogOut.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.ManageMember.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.ManageStaff.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.NewMember.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.NewStaff.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.Payment.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.Properties.Resources.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.Receipt.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.SplashForm.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure_Fitness.ViewEquipment.resources
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure Fitness.csproj.GenerateResource.cache
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure Fitness.csproj.CoreCompileInputs.cache
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure Fitness.exe.manifest
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure Fitness.application
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure Fitness.exe
+D:\FILES\Desktop\Software Development\GymGenius - System Application\obj\Debug\Pure Fitness.pdb
