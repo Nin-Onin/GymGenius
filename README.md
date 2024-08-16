@@ -1,6 +1,6 @@
 
 # GymGenius
-is an efficient desktop-based gym management system built in C# using the .NET Framework. Developed as a final project in CSci 23 - Application Development and Emerging Technologies. It can automate membership registration, scheduling, payment processing, equipment management, and customer and gym staff database management.
+Desktop-based gym management system built in C# using the .NET Framework. Developed as a final project in CSci 23 - Application Development and Emerging Technologies. It can automate membership registration, scheduling, payment processing, equipment management, and customer and gym staff database management.
 
 ## Desktop Application User Interface
 
