@@ -67,19 +67,16 @@ GymGenius is an efficient desktop-based gym management system built in C# using 
    &nbsp;&nbsp; Press `F5` or click **Start** in Visual Studio
 
 ## 🚀 Usage
-1. Launch the app and wait for the loading screen.
-2. Log in using your credentials set up in SQL Server.
-3. From the **Dashboard**, navigate using the top menu or click the arrow to switch to vertical menu.
-4. Use each feature as needed:
+
 | Feature | Description |
 |---|---|
-| 🧑 New Member | Register a new gym member with personal info and membership plan |
-| 👨‍💼 New Staff | Add gym staff with their role and contact details |
-| 🏋️ Equipment | Add, view, search, and delete gym equipment records |
-| 📋 Manage Member | View all members, search by ID, and delete records |
-| 👥 Manage Staff | View all staff, search by ID, and delete records |
-| 💳 Payment | Process member payments and generate receipts |
-| 🚪 Log Out | Exits back to the login screen |
+| New Member | Register a new gym member with personal info and membership plan |
+| New Staff | Add gym staff with their role and contact details |
+| Equipment | Add, view, search, and delete gym equipment records |
+| Manage Member | View all members, search by ID, and delete records |
+| Manage Staff | View all staff, search by ID, and delete records |
+| Payment | Process member payments and generate receipts |
+| Log Out | Exits back to the login screen |
  
 ### Membership Plans
 | Plan | Price (₱) | Gym Trainer |
@@ -89,7 +86,8 @@ GymGenius is an efficient desktop-based gym management system built in C# using 
 | 2 Months | 4,000 | Included |
 | 6 Months | 10,000 | Included |
 | 12 Months | 15,000 | Included |
- 
+
+
 ## 👤 Author
 **Niño M. Austria**
 - Course: CSci 23 - Application Development and Emerging Technologies
